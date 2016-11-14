@@ -71,7 +71,7 @@ public class ResumeMatcher {
    		resumeSearcher = new ResumeSearcher(invertedIndexPath, 10);
 
    		long startTime = System.currentTimeMillis();
-   		topResult = resumeSearcher.search(searchQuery);System.out.println(topResult);
+   		topResult = resumeSearcher.search(searchQuery);
    		long endTime = System.currentTimeMillis();
 
    		resumeSearcher.close();

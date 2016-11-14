@@ -1,0 +1,21 @@
+ 
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/David-Newberry.pdf
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/David_Newberry.txt
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/Marc-chambers.pdf
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/Marc-chambers.txt
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/PRANAV_KHAITAN.txt
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/praveen_kumarnelli.txt
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/Praveenkumar-Nelli.pdf
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/Roger-Beatty-II-PE.pdf
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/Roger-Beatty-II-PE.txt
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/sam_manekshaw.txt
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/Subramanian-Venkatachalam.pdf
+Indexing: /My Computer/Academic/GitHub/ResumeMatcher/input/Subramanian-Venkatachalam.txt
+Total resumes indexed: 24
+Time taken: 489 ms
+
+Searching: java
+Resume: /My Computer/Academic/GitHub/ResumeMatcher/input/praveen_kumarnelli.txt	Score: 2.5973227
+Resume: /My Computer/Academic/GitHub/ResumeMatcher/input/David_Newberry.txt	Score: 2.2810602
+Resume: /My Computer/Academic/GitHub/ResumeMatcher/input/PRANAV_KHAITAN.txt	Score: 1.9966537
+Time taken: 15 ms
