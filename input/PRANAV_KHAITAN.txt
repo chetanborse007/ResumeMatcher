@@ -1,0 +1,85 @@
+PRANAV KHAITAN
+
+Computer Science Graduate Student, Stanford University 
+Email: pranavkh at cs.stanford.edu 
+
+
+EDUCATION
+
+* Stanford University, CA
+    * Master of Science in Computer Science (2009-11)
+    * GPA - 4.05
+* National Institute of Technology, Rourkela, India
+    * Bachelor of Technology in Computer Science and Engineering (2005-09)
+    * Class Rank - 1 , GPA - 9.48 / 10
+* Jain International Residential School, Bangalore, India
+    * Class Rank - 1, Percentage - 92.4%
+
+EXPERIENCE:
+
+* Facebook (June - Sept 2010) - Making the world more connected. Built the infrastructure for new Facebook messaging system.
+* Artificial Intelligence Lab, Stanford University (March 2010 - present) - Doing research with Prof. Daphne Koller on machine learning techniques for computational genetics
+* Parallel Distributed Processing Lab, Stanford University (Sept 2009 - present) - Doing research with Prof. Jay McClelland on computational models for processing language like a human brain
+* SLAC National Accelerator Lab, Stanford University (Sept 2009 - March 2010) - Simulation of galaxy formation and evolution
+* Microsoft R&D, India (May-July 2008) - Worked on business intelligence
+* HCL Infinet, India (May-June 2007) - Designed a Network management service
+* Maestro Medical Systems, CA (July-Aug 2009) - Developed medical tracking software
+
+ACADEMIC AWARDS
+
+* Institute awards and medal for first rank in the class during each of the four years in college
+* Highest GPA secured by any student in the history of the department during undergraduate study.
+* Stood among the top 0.02% in the National computer science graduate exam
+* Received awards for Best Student in the School for three consecutive years in grades 10th, 11th and 12th
+* First rank in class for 12th grade CBSE board exam.
+
+COURSES
+
+* At Stanford - Machine learning, Natural language processing, General game playing, Information retrieval & web search, Probabilistic graphical models, Database system principles, Program analysis and optimization, Programming languages
+* At NIT - Data structures & algorithms, Operating System, Cryptography, Optimization techniques, Artificial Intelligence, Database systems, Theory of computation, Microprocessors, Graphics, Image processing, Advanced computer architecture, System software, Object oriented software engineering, Compilers, Distributed Operating System, Real-time system, Computer Networks
+
+OTHER PROJECTS
+
+* Machine learning for fashion industry - Designed techniques to match shirts with ties using their pattern and color information. Developed software to predict if a given combination is a good match and to pick the best match for a given shirt/tie from a set of ties/shirts.
+* Privacy preservation - Designed approximation algorithms for dataset anonymization.
+* Parallel and distributed computing - Worked on parallel algorithms for problems on scientific computing.
+* Text classification - Implemented and did a detailed analysis on the performance of Naive Bayes, SVM, kNN, and decision tree classifiers for categorizing text.
+* Optimizing nested SQL queries - Developed integrated algorithm for unnesting SQL queries.
+* Detection of Malicious transactions - Developed algorithm for detecting malicious transactions using counting bloom filters
+* Optimization techniques - Implemented Optimization algorithms using C and Java on Linear Programming, Non-Linear Programming, Transportation problem and Project Management
+* Virtual stock market - Designed AJAX based software to simulate the stock market. This was used in multiple national level business competitions. Implementation: PHP, MySQL
+* Institute medical system - Designed and developed software to automate the processes of the dispensary of NIT Rourkela. Implementation: ASP.NET and SQL Server
+
+SOFTWARE SKILLS
+
+* Programming: C, C++, Java, C#.NET, MATLAB
+* Database: SQL Server 2005, SQL Server BI tools, Oracle, MySQL
+* Web Design: HTML, ASP.NET, PHP
+
+PUBLICATIONS
+
+* Multinomial interactive activation models, P Khaitan and JL McClelland, Cognitive Science Society conference, Portland 2010
+* Approximation algorithms for optimizing privacy and utility, P Khaitan, KS Babu, SK Jena, B Majhi, CSA 2009
+* Improved Query Plans for unnesting nested SQL queries, P Khaitan, M Satish Kumar, KS Babu, SK Jena, CSA 2009
+
+POSITIONS OF RESPONSIBILITY
+
+* Officer of Business Association of Stanford Entrepreneurial Students (2009-present)
+* Founder Convener of Cybersoft, students' society for R&D at NIT Rourkela. (2007-09)
+* Chief Coordinator of CSE dept for the annual technical festival at NIT Rourkela (2008)
+* Designed and conducted the coding event UltraCoder, a recruitment event for Microsoft (2008)
+* Taught multiple courses on operating system and programming during college. (2007-09)
+* Co-Founder and Manager of the Entrepreneurship cell at NIT Rourkela (2007-09)
+* Coordinator of Arthyaan, the first management fest at NIT Rourkela (2008)
+* Advisory Member of Sun Microsystems Club at NIT Rourkela (2007-09)
+* Student Member of the Institute of Electrical and Electronic Engineers (2007-08)
+* Representative of the Computer Science department for 3 years (2006-2009)
+* Cultural coordinator and class representative at Jain International Residential School (2003-05)
+
+CO-CURRICULAR ACHIEVEMENTS
+
+* 1st prize for C programming events held at NIT Rourkela (2007)
+* 2nd prize in management event at Xavier Institute of Management (2007)
+* 1st prize in stock market competition at NIT Rourkela (2007)
+* 2nd prize in Tech Quiz at NIT Rourkela (2008)
+* Won several prizes for debates, quizzes and sporting events in school and college
