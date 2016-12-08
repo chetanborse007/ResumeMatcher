@@ -1,13 +1,11 @@
 # RESUME MATCHER
 
-DESCRIPTION
------------
+## DESCRIPTION
 This application creates an inverted index over all available resumes. It then performs query search, 
 once a particular keyword is given. Finally, it outputs top resumes matching a given keyword.
 
 
-INSTRUCTION
------------
+## INSTRUCTION
 1. cd ResumeMatcher/
 2. Copy all the resumes into './input/' folder.
 3. Set r+w+x permissions for ‘run.sh’ (i.e. chmod 777 run.sh).
@@ -18,18 +16,15 @@ Note: You can change any parameter set in shell script file and accordingly
       you will get the results.
 
 
-COMPILATION
------------
+## COMPILATION
 javac -cp ".:./ext/lucene-analyzers-common-6.2.1.jar:./ext/lucene-core-6.2.1.jar:./ext/lucene-queryparser-6.2.1.jar" ./src/org/myorg/ResumeMatcher/*.java -d bin -Xlint
 
 
-CREATE A JAR
-------------
+## CREATE A JAR
 jar -cvf ResumeMatcher.jar -C bin/ .
 
 
-RUN APPLICATION
----------------
+## RUN APPLICATION
 java -cp .:ext/lucene-analyzers-common-6.2.1.jar:ext/lucene-core-6.2.1.jar:./ext/lucene-queryparser-6.2.1.jar:ResumeMatcher.jar org.myorg.ResumeMatcher.ResumeMatcher "./inverted_ind
 ex" "./input" <Keywords to be searched>
 
@@ -37,8 +32,7 @@ e.g.
 java -cp .:ext/lucene-analyzers-common-6.2.1.jar:ext/lucene-core-6.2.1.jar:./ext/lucene-queryparser-6.2.1.jar:ResumeMatcher.jar org.myorg.ResumeMatcher.ResumeMatcher "./inverted_index" "./input" "java"
 
 
-SAMPLE OUTPUT
--------------
+## SAMPLE OUTPUT
 Indexing: /Users/chetan/Desktop/demo/input/David-Newberry.pdf
 Indexing: /Users/chetan/Desktop/demo/input/David_Newberry.txt
 Indexing: /Users/chetan/Desktop/demo/input/Marc-chambers.pdf
