@@ -1,6 +1,4 @@
-************************
-*    RESUME MATCHER    *
-************************
+# RESUME MATCHER
 
 DESCRIPTION
 -----------
